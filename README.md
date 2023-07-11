@@ -7,4 +7,4 @@ There were some values the customer didn't need to see, but they did need to kno
 TODO:\
 Add menu\
 Add range picker\
-Add threshold picker\
+Add threshold picker
